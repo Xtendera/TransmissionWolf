@@ -1,0 +1,22 @@
+{
+  "name": "transmissionwolf",
+  "version": "1.0.0",
+  "description": "Always remember kids, prancer was a wolf.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xtendera/TransmissionWolf.git"
+  },
+  "author": "Xtendera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xtendera/TransmissionWolf/issues"
+  },
+  "homepage": "https://github.com/Xtendera/TransmissionWolf#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
